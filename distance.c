@@ -19,5 +19,9 @@ do
         printf("Longitude 1 (-180 to 180): ");
         scanf("%lf", &lon1);
 
-
-        
+       
+        printf("Enter the latitude and longitude of the second location (in degrees):\n");
+        printf("Latitude 2 (-90 to 90): ");
+        scanf("%lf", &lat2);
+        printf("Longitude 2 (-180 to 180): ");
+        scanf("%lf", &lon2);
